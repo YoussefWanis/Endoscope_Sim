@@ -158,13 +158,6 @@ c3vd_scope/
 ├── outputs/                    # Captured frames (auto‑created)
 └── unet_kvasir_best.pth        # Optional pre‑trained segmentation model
 ```
-
-## License
-
-- **C3VD dataset**: [CC BY‑NC‑SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) (Johns Hopkins University).
-- **Kvasir‑SEG dataset**: [CC BY‑NC‑SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) (Simula Research Laboratory).
-- **Code**: provided for educational purposes under the same terms as the datasets (CC BY‑NC‑SA 4.0) unless otherwise stated.
-
 ## Acknowledgments
 
 - C3VD dataset by Durr Lab, Johns Hopkins University.
